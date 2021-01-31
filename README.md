@@ -3,6 +3,6 @@
 </h1>
  
 
-Sou estudante do Bacharelado em Tecnologia da Informação na Universidade Virtual do Estado de São Paulo (UNIVESP), trabalhar com computação sempre foi uma meta de vida, hoje começo a realizar esse sonho. Então venha comigo nesta jornada de descoberta e grande conquista.
+I am a Bachelor of Information Technology student at the Virtual University of the State of São Paulo (UNIVESP), technology is my great passion. Beginning web developer and enthusiast of electronics and digital games,
 
 
